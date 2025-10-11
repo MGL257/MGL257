@@ -6,8 +6,7 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 
 - [Calculator]()
 
-**See the full Portfolio:**
-- [Full Portfolio]()
+**See the full Portfolio here:** [Full Portfolio]()
 
 ## Main Technologies:
 
@@ -19,7 +18,7 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 
 -
 
-## Where to find me
+## Where to find me:
 [LinkedIn](https://www.linkedin.com/in/miguel-m-7264b2217/)
 
 <!--
