@@ -4,7 +4,7 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 
 ## Main Projects:
 
-- [Calculator]()
+- [Sokoban]()
 
 **See the full Portfolio here:** [Code Portfolio]()
 
