@@ -1,4 +1,26 @@
-## Hi there 👋
+## Hi 👋
+
+My name is Miguel Martins and I'm currently studying Computer Engineering.
+
+## Main Projects:
+
+- [Calculator]()
+
+**See the full Portfolio:**
+- [Full Portfolio]()
+
+## Main Technologies:
+
+- **Front-end:** HTML, CSS, Javascript  
+- **Back-end:** Python, Java, C#  
+- **Other:** Trello, Git, GitHub  
+
+## Certifications:
+
+-
+
+## Where to find me
+[LinkedIn](https://www.linkedin.com/in/miguel-m-7264b2217/)
 
 <!--
 **LEI-111130/LEI-111130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
