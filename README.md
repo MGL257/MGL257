@@ -4,9 +4,9 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 
 ## Main Projects:
 
-- [Sokoban]()
+- [POO](https://github.com/MGL-Code-Portfolio/POO)
 
-**See the full Portfolio here:** [Code Portfolio]()
+**See the full Portfolio here:** [Code Portfolio](https://github.com/orgs/MGL-Code-Portfolio/repositories)
 
 ## Main Technologies:
 
