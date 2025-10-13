@@ -5,6 +5,7 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 ## Main Projects:
 
 - [POO](https://github.com/MGL-Code-Portfolio/POO)
+- [IA](https://github.com/MGL-Code-Portfolio/IA)
 
 **See the full Portfolio here:** [Code Portfolio](https://github.com/orgs/MGL-Code-Portfolio/repositories)
 
