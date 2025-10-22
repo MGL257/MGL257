@@ -20,7 +20,10 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 -
 
 ## Where to find me:
-[LinkedIn](https://www.linkedin.com/in/miguel-m-7264b2217/)
+<a href="https://www.linkedin.com/in/miguel-m-7264b2217/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="13" height="13"/>
+  LinkedIn
+</a>
 
 <!--
 **LEI-111130/LEI-111130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
