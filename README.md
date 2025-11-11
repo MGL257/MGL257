@@ -6,6 +6,7 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 
 - [POO](https://github.com/MGL-Code-Portfolio/POO)
 - [IA](https://github.com/MGL-Code-Portfolio/IA)
+- [PCD](https://github.com/MGL-Code-Portfolio/PCD)
 
 **See the full Portfolio here:** [Code Portfolio](https://github.com/orgs/MGL-Code-Portfolio/repositories)
 
