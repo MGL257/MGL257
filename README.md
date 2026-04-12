@@ -14,7 +14,7 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 
 - **Front-end:** HTML, CSS, Javascript
 - **Back-end:** Python, Java, C#
-- **Frameworks:** React
+- **Frameworks:** React, .NET
 - **Databases:** SQL, MySQL, MongoDB
 - **Tools:** Trello, Git, GitHub
 
