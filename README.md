@@ -12,9 +12,11 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 
 ## Main Technologies:
 
-- **Front-end:** HTML, CSS, Javascript  
-- **Back-end:** Python, Java, C#  
-- **Other:** Trello, Git, GitHub  
+- **Front-end:** HTML, CSS, Javascript
+- **Back-end:** Python, Java, C#
+- **Frameworks:** React
+- **Databases:** SQL, MySQL, MongoDB
+- **Tools:** Trello, Git, GitHub
 
 ## Certifications:
 
