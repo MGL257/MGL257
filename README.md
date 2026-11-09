@@ -19,6 +19,7 @@ My name is Miguel Martins and I'm currently studying Computer Engineering.
 
 ## Certifications:
 
+- [Succeed in the Age of AI](https://www.udemy.com/certificate/UC-69ff512a-b579-42dc-bb37-91c9fab0cabf/)
 - [MongoDB - The Complete Developer's Guide](https://www.udemy.com/certificate/UC-e923eabf-afcf-49f4-a3f2-2ce25b5ed37f/)
 - [The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-47374a3a-ac54-47f0-9d00-2213f8834f15/)
 
